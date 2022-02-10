@@ -36,6 +36,8 @@ echo 'This is line 2';
 echo '<br>';
 echo 'Chri\'s middle name is Andrew';
 
+echo 'Make sure to come back to PHPstorm. VScode isn\'t as great for PHP stuff';
+
 
 
 
