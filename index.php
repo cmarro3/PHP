@@ -29,8 +29,14 @@ echo '<title>PHP Demo</title>';
 echo '<br>';
 echo 'Welcome to ' .$name . ' website';
 echo '<br>';
-echo 'welcome to Christopher\'s website';
+echo 'Welcome to Christopher\'s website';
 echo '<br>';
+echo "This is line 1 \n";
+echo 'This is line 2';
+echo '<br>';
+echo 'Chri\'s middle name is Andrew';
+
+
 
 
 
